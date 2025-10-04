@@ -5,5 +5,8 @@
     "@prettier/plugin-php": "^0.22.4",
     "prettier": "^3.5.1",
     "stylelint-prettier": "^5.0.3"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
